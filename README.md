@@ -22,7 +22,7 @@ Welcome to the Psychology App, an innovative graduation project that merges psyc
 
 ## GitHub Repository
 
-Access the project's source code and contribute to its development on GitHub: [GitHub Repository](https://github.com/ibrahim-atef/psychology)
+Access the project's source code and contribute to its development on GitHub: [GitHub Repository](https://github.com/Ibrahim653/psychology)
 
 
 
